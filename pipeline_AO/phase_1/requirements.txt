@@ -1,0 +1,7 @@
+streamlit==1.39.0
+pandas==2.2.3
+tzdata
+openpyxl
+xlsxwriter
+python-docx==0.8.11
+playwright
